@@ -2,7 +2,7 @@
 
 1. XSL
     * [Решение XSL (git)](https://github.com/shtatiana/shtatiana.github.io/tree/main/xsl)
-    * [Решение XSL (kodaktor)]()
+    * [Решение XSL (kodaktor)](https://kodaktor.ru/g/ea5cc5d)
 
 
 
