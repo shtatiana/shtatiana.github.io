@@ -13,4 +13,4 @@
     * [Решение]()
 4. Fetch (async_tasks)
     * [Задание](https://kodaktor.ru/async_tasks)
-    * [Решение]()
+    * [Решение](https://kodaktor.ru/g/9f568c9)
