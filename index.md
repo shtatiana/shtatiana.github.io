@@ -6,8 +6,7 @@
     * [Решение XSL (kodaktor)](https://kodaktor.ru/g/ea5cc5d)
 2. Функции
     * [Задание](https://kodaktor.ru/func_007)
-    * [Решение](https://kodaktor.ru/g/dd125ef)
-    * Здесь должно быть дерево вызовов
+    * [Решение](https://kodaktor.ru/g/3c363a1)
 3. Цепочка прототипов
     * [Задание](https://kodaktor.ru/g/proto_chain)
     * [Решение]()
