@@ -9,7 +9,7 @@
     * [Решение](https://kodaktor.ru/g/3c363a1)
 3. Цепочка прототипов
     * [Задание](https://kodaktor.ru/g/proto_chain)
-    * [Решение]()
+    * [Решение](https://kodaktor.ru/g/d634ad6)
 4. Fetch (async_tasks)
     * [Задание](https://kodaktor.ru/async_tasks)
     * [Решение](https://kodaktor.ru/g/9f568c9)
