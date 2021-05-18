@@ -3,7 +3,8 @@
 1. XSL
     * [Задание](https://kodaktor.ru/g/xsl_intro)
     * [Решение XSL (git)](https://github.com/shtatiana/shtatiana.github.io/tree/main/xsl)
-    * [Решение XSL (kodaktor)](https://kodaktor.ru/g/ea5cc5d)
+    * [Решение XSL 1.1 (kodaktor)](https://kodaktor.ru/g/ea5cc5d)
+    * [Решение XSL 1.2 (kodaktor)](https://kodaktor.ru/g/1209a23)
 2. Функции
     * [Задание](https://kodaktor.ru/func_007)
     * [Решение](https://kodaktor.ru/g/3c363a1)
